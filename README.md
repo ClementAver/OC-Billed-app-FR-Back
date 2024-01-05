@@ -1,5 +1,7 @@
 # Billapp backend
 
+This is the backend of a study project I didn't work on. To see my work on the frontend, [click here](https://github.com/ClementAver/OC-Billed-app-FR-Front)
+
 ================ FR ====================
 
 ## Comment lancer l'API en local:
